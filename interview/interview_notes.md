@@ -1,8 +1,8 @@
 # Interview Notes: Laser Print Layout Requirements
 
-**Date:** _______________  
-**Attendees:** _______________  
-**Duration:** _______________
+**Date:** [DATUM]  
+**Attendees:** [NAMN]  
+**Duration:** [TID]
 
 ---
 
